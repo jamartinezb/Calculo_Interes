@@ -1,0 +1,17 @@
+C:\Users\Jhonz\OneDrive\Documentos\Automatizacion\OMNIVIDA SAS\punto 4\calcular_intereses\calcular_intereses\bin\Debug\netcoreapp3.1\calcular_intereses.exe
+C:\Users\Jhonz\OneDrive\Documentos\Automatizacion\OMNIVIDA SAS\punto 4\calcular_intereses\calcular_intereses\bin\Debug\netcoreapp3.1\calcular_intereses.deps.json
+C:\Users\Jhonz\OneDrive\Documentos\Automatizacion\OMNIVIDA SAS\punto 4\calcular_intereses\calcular_intereses\bin\Debug\netcoreapp3.1\calcular_intereses.runtimeconfig.json
+C:\Users\Jhonz\OneDrive\Documentos\Automatizacion\OMNIVIDA SAS\punto 4\calcular_intereses\calcular_intereses\bin\Debug\netcoreapp3.1\calcular_intereses.runtimeconfig.dev.json
+C:\Users\Jhonz\OneDrive\Documentos\Automatizacion\OMNIVIDA SAS\punto 4\calcular_intereses\calcular_intereses\bin\Debug\netcoreapp3.1\calcular_intereses.dll
+C:\Users\Jhonz\OneDrive\Documentos\Automatizacion\OMNIVIDA SAS\punto 4\calcular_intereses\calcular_intereses\bin\Debug\netcoreapp3.1\calcular_intereses.pdb
+C:\Users\Jhonz\OneDrive\Documentos\Automatizacion\OMNIVIDA SAS\punto 4\calcular_intereses\calcular_intereses\obj\Debug\netcoreapp3.1\calcular_intereses.Form1.resources
+C:\Users\Jhonz\OneDrive\Documentos\Automatizacion\OMNIVIDA SAS\punto 4\calcular_intereses\calcular_intereses\obj\Debug\netcoreapp3.1\calcular_intereses.csproj.GenerateResource.cache
+C:\Users\Jhonz\OneDrive\Documentos\Automatizacion\OMNIVIDA SAS\punto 4\calcular_intereses\calcular_intereses\obj\Debug\netcoreapp3.1\calcular_intereses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhonz\OneDrive\Documentos\Automatizacion\OMNIVIDA SAS\punto 4\calcular_intereses\calcular_intereses\obj\Debug\netcoreapp3.1\calcular_intereses.AssemblyInfoInputs.cache
+C:\Users\Jhonz\OneDrive\Documentos\Automatizacion\OMNIVIDA SAS\punto 4\calcular_intereses\calcular_intereses\obj\Debug\netcoreapp3.1\calcular_intereses.AssemblyInfo.cs
+C:\Users\Jhonz\OneDrive\Documentos\Automatizacion\OMNIVIDA SAS\punto 4\calcular_intereses\calcular_intereses\obj\Debug\netcoreapp3.1\calcular_intereses.csproj.CoreCompileInputs.cache
+C:\Users\Jhonz\OneDrive\Documentos\Automatizacion\OMNIVIDA SAS\punto 4\calcular_intereses\calcular_intereses\obj\Debug\netcoreapp3.1\calcular_intereses.dll
+C:\Users\Jhonz\OneDrive\Documentos\Automatizacion\OMNIVIDA SAS\punto 4\calcular_intereses\calcular_intereses\obj\Debug\netcoreapp3.1\calcular_intereses.pdb
+C:\Users\Jhonz\OneDrive\Documentos\Automatizacion\OMNIVIDA SAS\punto 4\calcular_intereses\calcular_intereses\obj\Debug\netcoreapp3.1\calcular_intereses.genruntimeconfig.cache
+C:\Users\Jhonz\OneDrive\Documentos\Automatizacion\OMNIVIDA SAS\punto 4\calcular_intereses\calcular_intereses\obj\Debug\netcoreapp3.1\calcular_intereses.csproj.AssemblyReference.cache
+C:\Users\Jhonz\OneDrive\Documentos\Automatizacion\OMNIVIDA SAS\punto 4\calcular_intereses\calcular_intereses\obj\Debug\netcoreapp3.1\calcular_intereses.Properties.Resources.resources
